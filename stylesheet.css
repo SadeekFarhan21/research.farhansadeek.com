@@ -96,6 +96,16 @@ img {
     margin: 0;
   }
 
+  body,
+  td,
+  th,
+  tr,
+  p,
+  a,
+  strong {
+    font-size: 15px;
+  }
+
   main {
     width: 100% !important;
   }
@@ -116,7 +126,15 @@ img {
   }
 
   .name {
-    font-size: 28px;
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 23px;
+  }
+
+  .papertitle {
+    font-size: 15px;
   }
 
   main > section:nth-child(2) {
@@ -138,7 +156,7 @@ img {
 
   main > section:nth-child(2) td:first-child img {
     display: block;
-    width: min(320px, 100%) !important;
+    width: 70% !important;
     margin: 0 auto;
   }
 
