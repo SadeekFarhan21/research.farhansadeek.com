@@ -140,3 +140,63 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+img {
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  body {
+    margin: 0;
+  }
+
+  main {
+    width: 100% !important;
+  }
+
+  main > section:first-child {
+    flex-direction: column-reverse;
+    align-items: stretch !important;
+    gap: 16px !important;
+    padding: 28px 20px 16px !important;
+  }
+
+  main > section:first-child > img {
+    display: none;
+  }
+
+  main > section:first-child > div {
+    width: 100%;
+  }
+
+  .name {
+    font-size: 28px;
+  }
+
+  main > section:nth-child(2) {
+    padding: 16px 20px !important;
+  }
+
+  main > section:nth-child(2) table,
+  main > section:nth-child(2) tbody,
+  main > section:nth-child(2) tr,
+  main > section:nth-child(2) td {
+    display: block;
+    width: 100% !important;
+    box-sizing: border-box;
+  }
+
+  main > section:nth-child(2) td:first-child {
+    padding: 12px 0 4px !important;
+  }
+
+  main > section:nth-child(2) td:first-child img {
+    display: block;
+    width: min(320px, 100%) !important;
+    margin: 0 auto;
+  }
+
+  main > section:nth-child(2) td:last-child {
+    padding: 8px 0 20px !important;
+  }
+}
