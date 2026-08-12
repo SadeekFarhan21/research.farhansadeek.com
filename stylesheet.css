@@ -55,6 +55,10 @@ h2 {
   font-weight: 600;
 }
 
+.mobile-label {
+  display: none;
+}
+
 .one {
   width: 160px;
   height: 160px;
@@ -101,9 +105,14 @@ img {
   th,
   tr,
   p,
-  a,
+  a {
+    font-size: 15px;
+    font-weight: 450;
+  }
+
   strong {
     font-size: 15px;
+    font-weight: 600;
   }
 
   main {
@@ -127,14 +136,27 @@ img {
 
   .name {
     font-size: 32px;
+    font-weight: 550;
+  }
+
+  .desktop-label,
+  .openreview-link,
+  .openreview-separator {
+    display: none;
+  }
+
+  .mobile-label {
+    display: inline;
   }
 
   h2 {
     font-size: 23px;
+    font-weight: 550;
   }
 
   .papertitle {
     font-size: 15px;
+    font-weight: 600;
   }
 
   main > section:nth-child(2) {
