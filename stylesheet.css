@@ -24,13 +24,13 @@ tr,
 p,
 a {
   font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 500;
 }
 
 strong {
   font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 650;
 }
 
@@ -38,12 +38,12 @@ h2 {
   margin: 0;
   font-weight: 600;
   font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 22px;
+  font-size: 23px;
 }
 
 .papertitle {
   font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: 650;
 }
 
@@ -51,7 +51,7 @@ h2 {
   padding-top: 20px;
   margin: 0;
   font-family: 'Quicksand', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  font-size: 36px;
+  font-size: 37px;
   font-weight: 600;
 }
 
