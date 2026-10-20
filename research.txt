@@ -1,0 +1,44 @@
+Farhan Sadeek
+https://research.farhansadeek.com
+
+I'm an undergraduate at Columbia University studying Computer Science with
+minors in Statistics and Applied Physics in the Fu Foundation School of
+Engineering and Applied Science. I spent a year at Dartmouth College, where I
+was advised by Peter Chin and Rahul Sarpeshkar, and the last two years of high
+school at The Ohio State University as a dual-enrolled student.
+
+I'm generally interested in efficient inference, post-training, reinforcement
+learning, and diffusion models, with some work in mechanistic interpretability.
+
+Email:          farhan@farhansadeek.com
+Google Scholar: https://scholar.google.com/citations?user=jfDvlvAAAAAJ&hl=en
+GitHub:         https://github.com/SadeekFarhan21
+LinkedIn:       https://www.linkedin.com/in/farhansadeek/
+OpenReview:     https://openreview.net/profile?id=~Farhan_Sadeek1
+
+
+RESEARCH
+========
+
+Learnable Path-Complex Features and Unified Path-Cellular Message Passing for
+Link Prediction
+  Authors:      Farhan Sadeek, Sie Hendrata Dharmawan, and Peter Chin
+  Published:    May 22, 2026
+  Project page: https://pcn.farhansadeek.com/
+  Paper:        https://openreview.net/pdf?id=n9ORNG6Ay8
+
+  We introduce position-aware learnable initialization for path-complex cells
+  and a unified path-cellular complex for link prediction, combining path- and
+  ring-based message passing.
+
+
+Simultaneous Illumination Normalization and Sparse Image Compression via
+Unfolded Recovery
+  Authors:      Farhan Sadeek
+  Published:    May 24, 2026
+  Project page: https://snr.farhansadeek.com/
+  Paper:        https://openreview.net/pdf?id=KTNxm4pCZg
+
+  The joint inverse-problem pipeline combines illumination normalization and
+  sparse image compression, outperforming sequential recovery by up to 4.7 dB
+  on textured scenes.
